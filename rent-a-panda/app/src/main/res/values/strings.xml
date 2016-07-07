@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rent a Panda</string>
+    <string name="alert_dialog_fail_retry_message" translatable="false">do you wish to retry ?</string>
+    <string name="alert_dialog_fail_retry_title" translatable="false">Job Fail</string>
+    <string name="alert_dialog_fail_retry_no_message" translatable="false">You don\'t want to retry</string>
+</resources>
